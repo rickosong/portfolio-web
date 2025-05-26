@@ -1,6 +1,11 @@
 body {
       font-family: Arial, sans-serif;
     }
+
+    nav .navbar-brand {
+      font-size: 24px;
+    }
+
     .hero {
       background-color: #d3d6db;
       padding: 60px 0;
@@ -17,7 +22,7 @@ body {
       border: none;
     }
     .btn-orange:hover {
-      background-color: #212429;
+      background-color:rgb(146, 87, 16);
       color: #fff;
       border: none;
     }
@@ -28,7 +33,7 @@ body {
       background-color: #f1f1f1;
       height: 200px;
       position: relative;
-    }
+    } 
     .certificate-footer {
       background-color: #1c1d21;
       color: white;
